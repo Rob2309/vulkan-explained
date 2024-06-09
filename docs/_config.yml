@@ -20,7 +20,7 @@
 
 title: Vulkan explained
 description: >- # this means to ignore newlines until "baseurl:"
-  This blog aims to explain various aspects of the Vulkan API.
+  This blog tries to explain various aspects of the Vulkan API.
 baseurl: "/vulkan-explained" # the subpath of your site, e.g. /blog
 url: "https://rob2309.github.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  rob2309
