@@ -7,7 +7,7 @@ permalink: /swapchain-sync-explained
 ---
 
 
-# No, the swapchain is not part of any pipeline stage
+## No, the swapchain is not part of any pipeline stage
 
 Synchronization in Vulkan is relatively complex and takes a while to intuitively understand.
 An even more complex topic is properly synchronizing with a Swapchain, as it has quirks that
